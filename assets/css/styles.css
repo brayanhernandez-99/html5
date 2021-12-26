@@ -29,20 +29,25 @@ nav {
 }
 
 .container {
-  padding: auto;
+  margin: 0 auto;
+  width: 90%;
 }
 
-.flex {
+.flex-wrap {
   display: flex;
+  flex-wrap: wrap;
 }
 
 .colum {
   text-align: center;
-  background-color: #f1e8e8;
+  background-color: rgb(250, 241, 241);
   border: 1px solid black;
-  margin: 10px;
+  margin: 10px auto;
   padding: 10px;
   box-shadow: 10px 10px 10px gray;
+  border-radius: 5px;
+  width: 23%;
+  box-sizing: border-box;
 }
 
 .price {
@@ -55,12 +60,17 @@ nav {
   color: white;
   border: 2px solid white;
   border-radius: 5px;
-  padding: 5px 0;
+  padding: 5px;
   text-decoration: none;
   display: block;
+  margin-bottom: 5px;
 }
 
-@media (max-width: 500px) {
+.btn-buy:hover {
+  background-color: rgb(236, 89, 73);
+}
+
+@media (max-width: 600px) {
   nav {
     flex-direction: column;
   }
@@ -73,3 +83,10 @@ nav {
     display: none;
   }
 }
+
+@media (max-width: 1070px) {
+  .colum {
+    width: 45%;
+  }
+}
+

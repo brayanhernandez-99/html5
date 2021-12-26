@@ -20,9 +20,45 @@
         <a class="nav-bar hide" href="#services">Services</a>
         <a class="nav-bar hide" href="#contact">Contact</a>
     </nav>
-    <section class="container flex">
+    <section class="container flex-wrap">
         <div class="colum">
-            <h2>Plan one</h2>
+            <h2>Plan One</h2>
+            <p class="price">$100</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+            <hr>
+            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Laboriosam similique, quis ducimus, tenetur blanditiis aperiam mollitia inventore reiciendis reprehenderit accusantium id.</p>
+            <hr>
+            <a href="" class="btn-buy">Comprar</a>
+        </div>
+        <div class="colum">
+            <h2>Plan Two</h2>
+            <p class="price">$200</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+            <hr>
+            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Laboriosam similique, quis ducimus, tenetur blanditiis aperiam mollitia inventore reiciendis reprehenderit accusantium id.</p>
+            <hr>
+            <a href="" class="btn-buy">Comprar</a>
+        </div>
+        <div class="colum">
+            <h2>Plan Three</h2>
+            <p class="price">$300</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+            <hr>
+            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Laboriosam similique, quis ducimus, tenetur blanditiis aperiam mollitia inventore reiciendis reprehenderit accusantium id.</p>
+            <hr>
+            <a href="" class="btn-buy">Comprar</a>
+        </div>
+        <div class="colum">
+            <h2>Plan Four</h2>
+            <p class="price">$400</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+            <hr>
+            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Laboriosam similique, quis ducimus, tenetur blanditiis aperiam mollitia inventore reiciendis reprehenderit accusantium id.</p>
+            <hr>
+            <a href="" class="btn-buy">Comprar</a>
+        </div>
+        <div class="colum">
+            <h2>Plan Five</h2>
             <p class="price">$500</p>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
             <hr>
@@ -31,8 +67,8 @@
             <a href="" class="btn-buy">Comprar</a>
         </div>
         <div class="colum">
-            <h2>Plan two</h2>
-            <p class="price">$500</p>
+            <h2>Plan Six</h2>
+            <p class="price">$600</p>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
             <hr>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Laboriosam similique, quis ducimus, tenetur blanditiis aperiam mollitia inventore reiciendis reprehenderit accusantium id.</p>
@@ -40,8 +76,8 @@
             <a href="" class="btn-buy">Comprar</a>
         </div>
         <div class="colum">
-            <h2>Plan three</h2>
-            <p class="price">$500</p>
+            <h2>Plan Seven</h2>
+            <p class="price">$700</p>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
             <hr>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Laboriosam similique, quis ducimus, tenetur blanditiis aperiam mollitia inventore reiciendis reprehenderit accusantium id.</p>
@@ -49,26 +85,8 @@
             <a href="" class="btn-buy">Comprar</a>
         </div>
         <div class="colum">
-            <h2>Plan four</h2>
-            <p class="price">$500</p>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-            <hr>
-            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Laboriosam similique, quis ducimus, tenetur blanditiis aperiam mollitia inventore reiciendis reprehenderit accusantium id.</p>
-            <hr>
-            <a href="" class="btn-buy">Comprar</a>
-        </div>
-        <div class="colum">
-            <h2>Plan five</h2>
-            <p class="price">$500</p>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-            <hr>
-            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Laboriosam similique, quis ducimus, tenetur blanditiis aperiam mollitia inventore reiciendis reprehenderit accusantium id.</p>
-            <hr>
-            <a href="" class="btn-buy">Comprar</a>
-        </div>
-        <div class="colum">
-            <h2>Plan six</h2>
-            <p class="price">$500</p>
+            <h2>Plan Eight</h2> 
+            <p class="price">$800</p>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
             <hr>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Laboriosam similique, quis ducimus, tenetur blanditiis aperiam mollitia inventore reiciendis reprehenderit accusantium id.</p>
