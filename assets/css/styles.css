@@ -1,3 +1,7 @@
+body {
+  font-family: "Montserrat", sans-serif;
+}
+
 nav {
   background-color: black;
   padding: 10px;
@@ -20,8 +24,40 @@ nav {
   background-color: salmon;
   color: white;
   padding: 10px 0;
-  border: 2px double white;
+  border: 2px solid white;
   display: none;
+}
+
+.container {
+  padding: auto;
+}
+
+.flex {
+  display: flex;
+}
+
+.colum {
+  text-align: center;
+  background-color: #f1e8e8;
+  border: 1px solid black;
+  margin: 10px;
+  padding: 10px;
+  box-shadow: 10px 10px 10px gray;
+}
+
+.price {
+  font-size: 50px;
+  color: salmon;
+}
+
+.btn-buy {
+  background-color: salmon;
+  color: white;
+  border: 2px solid white;
+  border-radius: 5px;
+  padding: 5px 0;
+  text-decoration: none;
+  display: block;
 }
 
 @media (max-width: 500px) {
@@ -31,5 +67,9 @@ nav {
 
   .nav-button {
     display: inline-block;
+  }
+
+  .hide {
+    display: none;
   }
 }
