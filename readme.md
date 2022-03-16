@@ -1,2 +1,2 @@
 # Introduction
-Basic page with php and html with css and responsive design.
+Basic page with PHP, HTML5, CSS and Responsive Design.
